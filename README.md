@@ -6,8 +6,8 @@ With all of this said, the Index will be the following: (*This repo is in curren
 ## Contents
 The book is divided in 7 major blocks with 27 chapters in total:
 - [Block 1: Artificial Intelligence](Block_1_Artificial_Intelligence)
-  1. [Introduction](Block_1_Artificial_Intelligence/Introduction)
-  2. [Intelligent Agents](Block_1_Artificial_Intelligence/Intelligent_Agents)
+  1. [Introduction](Block_1_Artificial_Intelligence/CHP_1_Introduction)
+  2. [Intelligent Agents](Block_1_Artificial_Intelligence/CHP_2_Intelligent_Agents)
 - [Block 2: Problem Solving](Block_2_Problem_Solving)
 - [Block 3: Knowledge, Reasoning and Planning](Block_3_Knowledge_Reasoning_And_Planning)
 - [Block 4: Uncertain Knowledge and Reasoning](Block_4_Uncertain_Knowledge_And_Reasoning)
