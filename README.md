@@ -2,6 +2,7 @@
 
 I am going to be using the book: Artificial Intelligence: A Modern Approach (3rd Edition)
 **Note: I do not promote the use of piracy. I will create my own "copy" of the book just with the important things. Any use of pictures or fragments of the book that appear in this repo is just for others and my own clarification.**
+
 With all of this said, the Index will be the following: (*This repo is in currently under construction so take that in mind*)
 ## Contents
 The book is divided in 7 major blocks with 27 chapters in total:
